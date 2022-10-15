@@ -1,0 +1,3 @@
+# Awari curso de apreesentação FULL-STACK
+
+Primeiro exercício com algumas mudanças ...
